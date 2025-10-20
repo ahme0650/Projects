@@ -1,0 +1,21 @@
+//ahme0650 (Hamza Ahmed)
+
+1. Hamza Ahmed - ahme0650 (me)
+
+2. No Partner Was All Done By Me
+
+3. When you run the game you must write whatever is prompted exactly as is.
+    When asked to make your move you must put indexes than are not out of range or the game will crash(so 0 - 7)
+    Also you must not type anything else other than numbers in the exact format or the game will crash (x x x x - where x are numbers)
+
+4. I have a helper function in board named winner() where it checks what color of king is left on the board
+    after the game has ended and prints out who has won.
+
+5. No known bugs or defects.
+
+6. No outside sources were used while making this project.
+
+7. I have both read and followed the course policies in the ‘Academic Integrity - Course Policy’ section of the course syllabus.
+   Signed - Hamza Ahmed.
+
+

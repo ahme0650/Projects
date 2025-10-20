@@ -1,0 +1,22 @@
+ahme0650 Hamza Ahmed, oty00003 Shareef Oty
+1. Hamza Ahmed (ahme0650), Shareef Oty (oty00003)
+
+2. I did evaluateField(), revealZeros(), gameOver(), and both toString() and debug() since they were almost identical.
+While Shareef did revealStartingArea(), and guess(), and createMines().
+We both worked on the Main Implementation of the game and of course helped each other out when needed.
+
+3. While playing the game whatever is prompted must follow the exact format or the game will stop working.
+Any extra spaces or invalid inputs will crash the game unless told otherwise.
+
+4. An addition to our project is a helper function inBounds() that took an array and indexes to determine if a coordinate was valid.
+Also, we added a getter for the attribute flags that was used in main to keep track of the flags remaining.
+
+5. One bug is that if you guess a mine it will print out that you lost twice but other than that no other known
+bugs or defects. The game should work properly as long as input is inputted correctly.
+
+6. Other than TA's no outside resources were used for this project.
+
+7.I certify that the information contained in this INFO file is complete and accurate. I have both read and followed the
+course policies in the ‘Academic Integrity - Course Policy’ section of the course syllabus.
+
+Signed by: Hamza Ahmed and Shareef Oty
