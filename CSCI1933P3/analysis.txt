@@ -1,4 +1,4 @@
-//ahme0650, oty00003
+//ahme0650
     Method              ArrayList Runtime       LinkedList Runtime      Explanation
 
   add(T element)             O(n)                     O(n)              The add method has a time
