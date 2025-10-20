@@ -2,7 +2,7 @@
 // A Possible Generic Stack Interface
 // Identify the methods as necssary, nice to have,
 // or redundant
-//ahme0650 Hamza Ahmed, oty00003 Shareef Oty
+//ahme0650 Hamza Ahmed
 public interface StackGen <T> {
 
 // Interface for a Generic Stack
