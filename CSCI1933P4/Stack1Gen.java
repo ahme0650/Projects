@@ -1,6 +1,6 @@
 // Stack1Gen.java
 // The StackGen Interface is implemented using linked list
-// The linked list used is a simple generic node class called NGen.  (See NGen.java)
+// The linked list used is a simple generic node class called NGen.  
 //ahme0650 Hamza Ahmed
 public class Stack1Gen <T> implements StackGen <T> {
 
